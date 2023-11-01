@@ -1,6 +1,6 @@
 name: GitHub Actions Demo
 
-on: 
+on:
   push:
     branches: [ main ]
     paths-ignore: [.github/**]
